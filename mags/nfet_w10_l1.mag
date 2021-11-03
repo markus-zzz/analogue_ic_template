@@ -1,0 +1,28 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1635942583
+<< error_s >>
+rect -2830 2113 -2604 2149
+rect -2830 2031 -2794 2113
+rect -2640 2031 -2604 2113
+rect -2830 1995 -2604 2031
+<< pdiff >>
+rect -2794 2031 -2640 2113
+<< metal1 >>
+rect -3014 -206 -2878 2344
+rect -2822 -479 -2630 -284
+rect -2574 -756 -2438 1794
+use contact$4  contact$4_0
+timestamp 1635942583
+transform 1 0 -2725 0 1 -379
+box -64 -32 64 32
+use contact$2  contact$2_0
+timestamp 1635942583
+transform 1 0 -2717 0 1 2072
+box -103 -67 103 67
+use sky130_fd_pr__nfet_g5v0d10v5_9A4VCP  sky130_fd_pr__nfet_g5v0d10v5_9A4VCP_0
+timestamp 1635942583
+transform 1 0 -2726 0 1 794
+box -184 -1088 184 1088
+<< end >>
